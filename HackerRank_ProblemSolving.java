@@ -29,8 +29,8 @@ public class HackerRank_ProblemSolving {
 				OriginalString+=c;
 			}
 		}
-		System.out.println(OriginalString);
-		return null;
+		//System.out.println(OriginalString);
+		return OriginalString;
 	}
 
 	public static void main(String[] args) {
